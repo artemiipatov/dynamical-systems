@@ -1,0 +1,9 @@
+[package]
+name = "dynamical-systems"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-complex = "0.4.6"
+plotters = "0.3"
+rand = "0.9.2"
